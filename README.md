@@ -5,8 +5,9 @@
 
 ## 시작하기 전에 🚀
 </br>
-- 이 저장소를 자신의 계정으로 포크(Fork)하세요.
-- 포크한 저장소를 자신의 로컬 컴퓨터로 클론(Clone)합니다.
+- 이 저장소를 자신의 계정으로 포크(Fork)하세요.</br>
+- 포크한 저장소를 자신의 로컬 컴퓨터로 클론(Clone)합니다.</br>
+
 `git clone <https://github.com/yeajongcheol/GitPractice>`
 </br>
 
