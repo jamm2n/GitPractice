@@ -16,25 +16,25 @@
 
 </br>
 
-1. 새로운 브랜치를 생성합니다.
+1. 새로운 브랜치를 생성합니다.</br>
 `git branch new-branch`
 
 </br>
 
-2. 생성한 브랜치로 이동합니다.
+2. 생성한 브랜치로 이동합니다.</br>
 `git checkout new-branch`
 </br>
 
 3. 'test.txt' 파일을 열고 추가적인 내용을 기록합니다.
 </br>
    
-4. 변경사항을 커밋합니다.
+4. 변경사항을 커밋합니다.</br>
 `git add test.txt`
 `git commit -m "Add more text to test.txt on new-branch"`
 
 </br>
 
-5. 변경사항을 원격 브랜치에 푸시합니다.
+5. 변경사항을 원격 브랜치에 푸시합니다.</br>
 `git push --set-upstream origin new-branch`
 
 </br>
@@ -44,15 +44,15 @@
 ## 머지하기 🔄
 </br>
 
-1. 'master' 브랜치로 이동합니다.
+1. 'master' 브랜치로 이동합니다.</br>
 `git checkout master`
 </br>
 
-2. 새로운 브랜치의 변경사항을 master 브랜치에 머지합니다.
+2. 새로운 브랜치의 변경사항을 master 브랜치에 머지합니다.</br>
 `git merge new-branch`
 </br>
 
-3. 머지된 변경사항을 원격 저장소에 푸시합니다.
+3. 머지된 변경사항을 원격 저장소에 푸시합니다.</br>
 `git push`
 </br>
 
