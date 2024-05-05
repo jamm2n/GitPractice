@@ -67,6 +67,7 @@
 ## ❓참고자료
 </br>
 
-[ㄹㅇ 쉬운 깃허브 협업하기](https://youtu.be/IT41djAKUgg?si=kClqgFkmkP0eSEFD)
+[Gitbash 초기설정 참고]https://dev-play.tistory.com/entry/Git-Git-hub-%EC%99%84%EC%A0%84-%EC%B4%88%EB%B3%B4%EC%9E%90-%EC%82%AC%EC%9A%A9%EB%B2%95-Git-bash-%ED%99%9C%EC%9A%A9
+[레알 쉬운 깃허브 협업하기](https://youtu.be/IT41djAKUgg?si=kClqgFkmkP0eSEFD)
 
 
